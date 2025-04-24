@@ -1,0 +1,26 @@
+{
+  "article": 78456434,
+  "composition": {
+    "fabric": "Золото",
+    "assay": 585
+  },
+  "type": "Серьги",
+  "sex": "Девочки",
+  "brand": "SLAVA GORSHKOV Jewerly",
+  "country": "Россия",
+  "price": 6945,
+  "inserts": [
+    {
+      "stone": "Фианит",
+      "size": "1 карат"
+    },
+    {
+      "stone": "Топаз",
+      "size": "1 карат"
+    },
+    {
+      "stone": "Корунд синтетический",
+      "size": "2 карата"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <article>78456434</article>
+     <composition>
+         <fabric>Золото</fabric>
+         <assay>585</assay>
+     </composition>
+     <type>Серьги</type>
+     <sex>Девочки</sex>
+     <brand>SLAVA GORSHKOV Jewerly</brand>
+     <country>Россия</country>
+     <price>6945</price>
+     <inserts>
+        <stone>
+          <size>1 карат</size>
+          <name>Фианит</name>
+        </stone>
+        <stone> 
+         <name>Топаз</name> 
+         <size>1 карат</size>
+        </stone>
+        <stone>
+         <name>Корунд синтетический</name>
+         <size>2 карата</size>
+        </stone>
+    </inserts>
+ </root>
